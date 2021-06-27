@@ -1,4 +1,3 @@
----
 
 <!-- Before creating a pull request to submit a new or modified definition or language file, be certain you have tested your file(s) in game and that they work correctly! -->
 
